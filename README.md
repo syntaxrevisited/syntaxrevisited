@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- my name is william
+- i am currently a student of english language and literature and computer linguistics
+- a complete beginner to coding
+  
 <!--
 **syntaxrevisited/syntaxrevisited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
